@@ -1,3 +1,3 @@
-[🔗 https://github.com/Jongho-Yoo/branch-test]
+# branch-test
 
 practicing git branching and merging (Lab 9)
